@@ -1,0 +1,170 @@
+{
+  "titulo": "La Última Línea",
+  "formato": "video_corto",
+  "duracion_minutos": 5,
+  "sinopsis": "Mateo Vargas, periodista investigativo de 45 años, descubre que la muerte del sindicalista Luis Ortega fue un encubrimiento de un accidente industrial que mató a 20 personas en el puerto de Callao.",
+  "protagonista": "Mateo Vargas",
+  "personajes_secundarios": [
+    "Luis Ortega",
+    "Valentina Rojas",
+    "Alcides Rocha",
+    "Capitán Rivero"
+  ],
+  "escenas": [
+    {
+      "num": 1,
+      "tiempo": "00:00-00:30",
+      "descripcion": "Plano aéreo del puerto de Callao al amanecer. Lluvia fina. Mateo camina por el malecón, solitario.",
+      "dialogo": [],
+      "direccion_fotografia": "Plano general descendente, cámara lenta",
+      "musica_fondo": "Piano minimalista en do menor",
+      "transicion": "Corte seco a flash blanco"
+    },
+    {
+      "num": 2,
+      "tiempo": "00:30-01:00",
+      "descripcion": "Mateo en su departamento, revisando el diario bajo la luz del flexo.",
+      "dialogo": [
+        {
+          "personaje": "Mateo (voz en off)",
+          "texto": "La última página. Esa frase... no era una despedida. Era una confesión invertida."
+        }
+      ],
+      "direccion_fotografia": "Plano detalle de la página, después plano medio",
+      "musica_fondo": "Piano + violonchelo grave",
+      "transicion": "Fundido a negro breve"
+    },
+    {
+      "num": 3,
+      "tiempo": "01:00-01:30",
+      "descripcion": "Mateo en la Hemeroteca Municipal, hojeando periódicos viejos.",
+      "dialogo": [
+        {
+          "personaje": "Mateo (voz en off)",
+          "texto": "Una nota enterrada en la página doce. Varios heridos. No muertos. La verdad disfrazada."
+        }
+      ],
+      "direccion_fotografia": "Plano detalle del periódico, después plano medio",
+      "musica_fondo": "Tensión creciente, cuerdas graves",
+      "transicion": "Corte directo"
+    },
+    {
+      "num": 4,
+      "tiempo": "01:30-02:15",
+      "descripcion": "Mateo entrevista a Rosa Mamani en su cocina.",
+      "dialogo": [
+        {
+          "personaje": "Rosa",
+          "texto": "Esa noche... llegaron veinte ambulancias. No veinte heridos. Veinte muertos."
+        },
+        {
+          "personaje": "Mateo",
+          "texto": "¿Quién dio la orden de silenciar esto?"
+        },
+        {
+          "personaje": "Rosa",
+          "texto": "El alcalde Rocha viene a este barrio cada tres meses. Todos sabemos quién paga la fiesta."
+        }
+      ],
+      "direccion_fotografia": "Plano medio de ambos, alternando con primeros planos",
+      "musica_fondo": "Silencio tenso, reloj de pared",
+      "transicion": "Corte seco"
+    },
+    {
+      "num": 5,
+      "tiempo": "02:15-02:45",
+      "descripcion": "Mateo camina por el Callao. Camioneta negra lo persigue. Mateo se mete en un mercado.",
+      "dialogo": [
+        {
+          "personaje": "Mensaje en pantalla",
+          "texto": "Este assunto não é pra você, gringo. Diga tchau."
+        }
+      ],
+      "direccion_fotografia": "Plano subjetivo desde camioneta, después plano corriendo",
+      "musica_fondo": "Percusión electrónica rápida",
+      "transicion": "Fundido a negro con sonido de motor"
+    },
+    {
+      "num": 6,
+      "tiempo": "02:45-03:30",
+      "descripcion": "Mateo entra al edificio abandonado de la planta. Encuentra el memo firmado por Rocha.",
+      "dialogo": [
+        {
+          "personaje": "Mateo (leyendo)",
+          "texto": "El costo de la actualización del sistema de alarmas exceeds el beneficio previsto. Recomendación: posponer indefinidamente."
+        }
+      ],
+      "direccion_fotografia": "Plano detalle del memo, después plano medio de Mateus en shock",
+      "musica_fondo": "Silencio absoluto, después nota grave del violonchelo",
+      "transicion": "Corte directo con flash"
+    },
+    {
+      "num": 7,
+      "tiempo": "03:30-04:00",
+      "descripcion": "Mateo sale del edificio. Capitán Rivero lo espera con sonrisa fría.",
+      "dialogo": [
+        {
+          "personaje": "Rivero",
+          "texto": "Te dije que este caso estaba cerrado."
+        },
+        {
+          "personaje": "Mateo",
+          "texto": "Luis dejó un diario. La clave no está en lo que sé, sino en lo que me hicieron olvidar."
+        }
+      ],
+      "direccion_fotografia": "Plano contrapicado de Rivero, después plano frontal de Mateo",
+      "musica_fondo": "Cuerdas en staccato",
+      "transicion": "Corte seco"
+    },
+    {
+      "num": 8,
+      "tiempo": "04:00-04:30",
+      "descripcion": "Mateo en su departamento frente al portátil. Sube las fotos a tres servidores.",
+      "dialogo": [
+        {
+          "personaje": "Mateo (voz en off)",
+          "texto": "No fue valentía. Fue responsabilidad. La verdad no se queda en silencio solo porque alguien la quiere enterrar."
+        }
+      ],
+      "direccion_fotografia": "Plano detalle de las manos, después plano medio",
+      "musica_fondo": "Piano regresa con cuerdas esperanzadas",
+      "transicion": "Fundido lento"
+    },
+    {
+      "num": 9,
+      "tiempo": "04:30-05:00",
+      "descripcion": "Plano exterior: edificio del periódico. Titular: 'Encubrimiento en el Puerto'. Rocha escoltado por judiciales.",
+      "dialogo": [],
+      "direccion_fotografia": "Plano general, cámara fija",
+      "musica_fondo": "Coro grave, majestuoso",
+      "transicion": "Corte directo"
+    },
+    {
+      "num": 10,
+      "tiempo": "05:00-05:30",
+      "descripcion": "Mateo y Valentina caminan bajo la lluvia cesante. Mateo mira el sol filtrándose entre las nubes.",
+      "dialogo": [
+        {
+          "personaje": "Mateo (voz en off)",
+          "texto": "La justicia no es solo hacer lo correcto. Es tener el coraje de recordar cuando todos los demás han decidido olvidar."
+        }
+      ],
+      "direccion_fotografia": "Plano general de ambos caminando hacia la luz",
+      "musica_fondo": "Piano final, nota resuelta en do mayor",
+      "transicion": "Fundido a blanco con título: 'LA ÚLTIMA LÍNEA'"
+    }
+  ],
+  "metadata": {
+    "fecha_creacion": "2026-09-04",
+    "proyecto": "la-ultima-linea",
+    "version": "v1.0",
+    "responsable": "Guionista Video",
+    "paleta_principal": "#1A0F1D, #FFB86C, #D13E2F, #7B2CBF, #4E9F9F",
+    "referencias": [
+      "Chinatown (1974)",
+      "Spotlight (2015)",
+      "Blade Runner 2049",
+      "Network (1976)"
+    ]
+  }
+}

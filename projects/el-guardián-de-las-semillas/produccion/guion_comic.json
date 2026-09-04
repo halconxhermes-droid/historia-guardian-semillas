@@ -1,0 +1,225 @@
+{
+  "titulo": "El Guardián de las Semillas",
+  "formato": "comic",
+  "paginas": 6,
+  "protagonista": "Kofi Mensah",
+  "sinopsis": "En 2147, Kofi Mensah, guardián de un banco de semillas subterráneo en Accra, debe decidir entre entregar las semillas a AgriCorp o activar el Protocolo Delta para dispersarlas a la resistencia.",
+  "personajes": [
+    "Kofi Mensah",
+    "Ama",
+    "Silas Rook",
+    "Tonio"
+  ],
+  "paginas_por_pagina": [
+    {
+      "num_pagina": 1,
+      "viñetas": [
+        {
+          "viñeta": 1,
+          "descripcion_visual": "Plano panorámico del banco subterráneo. Kofi camina por el pasillo central. Tanques de almacenamiento se extienden hacia abajo en capas. Luces rojas de emergencia parpadean.",
+          "dialogos": [],
+          "ef_sfx": "Zumbido bajo de sistemas de refrigeración",
+          "notas_director_arte": "Estilo Wall-E meets Nausicaä — minimalista pero orgánico",
+          "plano": "gran plano general",
+          "paleta": [
+            "verde bosque",
+            "negro carbón"
+          ]
+        },
+        {
+          "viñeta": 2,
+          "descripcion_visual": "Close-up de Kofi ajustando su linterna. Reflejo de la luz en su rostro determinado. Sudor en la frente.",
+          "dialogos": [
+            "Kofi: -Solo quedan 47 minutos antes de que los generadores fallen."
+          ],
+          "ef_sfx": "Respiración pesada",
+          "notas_director_arte": "Influencia Nausicaä — primeros planos emotivos",
+          "plano": "primer plano",
+          "paleta": [
+            "verde bosque",
+            "azul eléctrico"
+          ]
+        }
+      ]
+    },
+    {
+      "num_pagina": 2,
+      "viñetas": [
+        {
+          "viñeta": 3,
+          "descripcion_visual": "Mapa holográfico de Ama proyectado en el aire. Puntos rojos (AgriCorp) y verdes (resistencia).",
+          "dialogos": [
+            "Ama: -Tiempo es ahora o nunca. La corte decide mañana al amanecer."
+          ],
+          "ef_sfx": "Zumbido holográfico",
+          "notas_director_arte": "Estilo Children of Men — tecnología áspera",
+          "plano": "plano medio",
+          "paleta": [
+            "azul eléctrico",
+            "rojo sangre"
+          ]
+        },
+        {
+          "viñeta": 4,
+          "descripcion_visual": "Kofi frente al panel de control del Protocolo Delta. La interfaz azul brillante. Tres columnas: '1000 semillas dispersadas' / '9000 morirán' / 'Control corporativo garantizado si no hago nada'.",
+          "dialogos": [
+            "Kofi: -Esto es irreversible. ¿Confirmar?"
+          ],
+          "ef_sfx": "Pings electrónicos del teclado",
+          "notas_director_arte": "Estilo Blade Runner 2049 — UI futurista",
+          "plano": "plano medio",
+          "paleta": [
+            "azul eléctrico",
+            "negro carbón"
+          ]
+        }
+      ]
+    },
+    {
+      "num_pagina": 3,
+      "viñetas": [
+        {
+          "viñeta": 5,
+          "descripcion_visual": "Tonio, el dron de AgriCorp, sobrevolando el banco. Cámaras rojas girando. Datos fluyendo.",
+          "dialogos": [],
+          "ef_sfx": "Zumbido de motores de dron",
+          "notas_director_arte": "Estilo Wall-E — IA con personalidad emergente",
+          "plano": "plano general",
+          "paleta": [
+            "verde bosque",
+            "azul eléctrico"
+          ]
+        },
+        {
+          "viñeta": 6,
+          "descripcion_visual": "Kofi presionando 'SÍ'. Los tanques se abren. Semillas viajando por conductos hacia salidas de emergencia.",
+          "dialogos": [
+            "Kofi: -Activado. Protocolo Delta."
+          ],
+          "ef_sfx": "Succión de aire, movimiento por conductos",
+          "notas_director_arte": "Estilo Nausicaä — acción esperanzadora",
+          "plano": "plano general",
+          "paleta": [
+            "verde bosque",
+            "azul eléctrico"
+          ]
+        }
+      ]
+    },
+    {
+      "num_pagina": 4,
+      "viñetas": [
+        {
+          "viñeta": 7,
+          "descripcion_visual": "Al amanecer, el ejército y drones llegan al perímetro. Pero los túneles están vacíos. Los tanques abiertos. Solo polvo y metal frío.",
+          "dialogos": [
+            "Oficial: -El banco ha sido vaciado. Las semillas faltan."
+          ],
+          "ef_sfx": "Zumbido de drones acercándose",
+          "notas_director_arte": "Estilo Children of Men — vacío y pérdida",
+          "plano": "plano general",
+          "paleta": [
+            "rojo sangre",
+            "negro carbón"
+          ]
+        },
+        {
+          "viñeta": 8,
+          "descripcion_visual": "Kofi y Ama en la azotea de una iglesia abandonada. Mochilas con semillas refrigeradas. La ciudad de Accra extendida debajo.",
+          "dialogos": [
+            "Ama: -No todas. Mil. Pero mil es suficiente para empezar."
+          ],
+          "ef_sfx": "Ninguno — solo viento lejano",
+          "notas_director_arte": "Estilo Wall-E — pequeñas cosas grandes",
+          "plano": "plano panorámico",
+          "paleta": [
+            "azul eléctrico",
+            "verde bosque"
+          ]
+        }
+      ]
+    },
+    {
+      "num_pagina": 5,
+      "viñetas": [
+        {
+          "viñeta": 9,
+          "descripcion_visual": "Seis meses después. Campo en Etiopía. Un granjero señala una planta de maíz Kumi-Kumi creciendo salvaje. Rocío matutino brillando.",
+          "dialogos": [],
+          "ef_sfx": "Ninguno",
+          "notas_director_arte": "Estilo Nausicaä — naturaleza recuperándose",
+          "plano": "plano general",
+          "paleta": [
+            "verde bosque",
+            "dorado solar"
+          ]
+        },
+        {
+          "viñeta": 10,
+          "descripcion_visual": "Campo de arroz orgánico en Ghana. Agricultores cultivando sin químicos ni patentes.",
+          "dialogos": [
+            "Agricultor: -Estas semillas... nacen solas. No necesitan el contrato."
+          ],
+          "ef_sfx": "Ninguno",
+          "notas_director_arte": "Estilo realismo mágico africano",
+          "plano": "plano general",
+          "paleta": [
+            "verde bosque",
+            "marrón tierra"
+          ]
+        }
+      ]
+    },
+    {
+      "num_pagina": 6,
+      "viñetas": [
+        {
+          "viñeta": 11,
+          "descripcion_visual": "Interior de prisión de máxima seguridad. Tonio, el dron reprogramado. Código verde rodea su visión de óvalo. Un interrogante flotante: '¿Por qué?'",
+          "dialogos": [],
+          "ef_sfx": "Zumbido constante de hardware",
+          "notas_director_arte": "Estilo Ex Machina — intimidad con la IA",
+          "plano": "primer plano",
+          "paleta": [
+            "azul eléctrico",
+            "gris prisión"
+          ]
+        },
+        {
+          "viñeta": 12,
+          "descripcion_visual": "Kofi caminando por un pueblo africano, entregando semillas a comunidades. Sonríe. Los niños corren detrás de él.",
+          "dialogos": [
+            {
+              "personaje": "Niño",
+              "texto": "¿De dónde vienes, guardián?"
+            },
+            {
+              "personaje": "Kofi",
+              "texto": "De donde la verdad importa más que obedecer."
+            }
+          ],
+          "ef_sfx": "Ninguno",
+          "notas_director_arte": "Estilo realismo mágico africano",
+          "plano": "plano panorámico",
+          "paleta": [
+            "verde bosque",
+            "dorado solar"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "fecha_creacion": "2026-09-04",
+    "proyecto": "el-guardián-de-las-semillas",
+    "version": "v1.0",
+    "responsable": "Guionista Comic",
+    "paleta_principal": "verde bosque, dorado solar, negro carbón, azul eléctrico, rojo sangre",
+    "referencias": [
+      "Wall-E",
+      "Nausicaä del Valle del Viento",
+      "Children of Men",
+      "Blade Runner 2049"
+    ]
+  }
+}
